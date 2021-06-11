@@ -154,7 +154,9 @@ button:hover{
     nav {
         width: 56%; }
     img {
-    height: 24rem;}
+    height: 24rem;
+    margin-bottom: 8%;
+    }
     h1 {
         font-size: 4.6rem; }
     a {
@@ -165,5 +167,6 @@ button:hover{
         font-family: 'Raleway', sans-serif;
         text-align: center;
         margin: 4% 0; }
+
 
 }
